@@ -189,7 +189,7 @@ class BaseLinkedinBot:
         options.add_argument("start-maximized")
         options.add_experimental_option("excludeSwitches", ["enable-automation"])
         options.add_experimental_option('useAutomationExtension', False)
-        options.add_experimental_option("detach", True)
+        # options.add_experimental_option("detach", True)
         if chromedriver_path:
             service = Service(chromedriver_path)
         else:
