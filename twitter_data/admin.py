@@ -10,7 +10,7 @@ class TopicsAdmin(admin.ModelAdmin):
 
 
 class TweetsAdmin(ImportExportModelAdmin):
-    list_display = ("id", "user", "retweeted", "liked", "replied", "go_to_tweet")
+    list_display = ("tweet_id", "user", "retweeted", "liked", "replied", "go_to_tweet")
     list_filter = (
         "retweeted",
         "liked",

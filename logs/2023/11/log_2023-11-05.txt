@@ -1,86 +1,9 @@
 Starting
-Going to user zoharm7
-Not retweet
-Not pinned tweet
-Not quote tweet
-Latest tweet already replied to
-Going to user yakmargi
-Not retweet
-Pinned tweet, skip
-Not retweet
-Not pinned tweet
-Not quote tweet
-Latest tweet already replied to
-Going to user ofir_sofer
-Not retweet
-Pinned tweet, skip
-Not retweet
-Not pinned tweet
-Not quote tweet
-Found a new tweet, replying
-Done replying
-Going to user nirbarkat
-retweet, skip
-retweet, skip
-retweet, skip
-Going to user eliyahu_a
-Not retweet
-Not pinned tweet
-Not quote tweet
-Latest tweet already replied to
-Going to user oritstrock
-Not retweet
-Not pinned tweet
-Not quote tweet
-Latest tweet already replied to
-Going to user iditsilman
-Not retweet
-Not pinned tweet
-Not quote tweet
-Latest tweet already replied to
-Going to user bentzuryoav
-Not retweet
-Not pinned tweet
-Not quote tweet
-Latest tweet already replied to
-Going to user itamarbengvir
-Not retweet
-Not pinned tweet
-Not quote tweet
-Latest tweet already replied to
-Going to user yoavgallant
-Starting
-Going to user 1queerjew
-Not retweet
-Pinned tweet, skip
-Not retweet
-Not pinned tweet
-Not quote tweet
-Found a new tweet, replying
-Done replying
-Going to user ambdermer
-Not retweet
-Not pinned tweet
-Not quote tweet
-No tweet found
-Going to user amichaichikli
-Not retweet
-Pinned tweet, skip
-retweet, skip
-Going to user amirohana
-Starting
-Going to user no0 1queerjew
-Not retweet
-Pinned tweet, skip
-Not retweet
-Not pinned tweet
-Not quote tweet
-Found a new tweet, replying
-Done replying
 Going to user no1 ambdermer
 Not retweet
 Not pinned tweet
 Not quote tweet
+Selected a tweet
 No tweet found
 Going to user no2 amichaichikli
 Not retweet
@@ -96,19 +19,851 @@ Going to user no4 avidichter
 Not retweet
 Not pinned tweet
 Not quote tweet
+Selected a tweet
+Starting
+Going to user no1 ambdermer
+Not retweet
+Not pinned tweet
+Quote tweet, skip
+Going to user no2 amichaichikli
+Not retweet
+Pinned tweet, skip
+retweet, skip
+retweet, skip
+retweet, skip
+retweet, skip
+Going to user no3 amirohana
+retweet, skip
+retweet, skip
+retweet, skip
+retweet, skip
+retweet, skip
+Going to user no4 avidichter
+Not retweet
+Not pinned tweet
+Not quote tweet
+Selected a tweet
+tweet_id: 1719622370116219158 length of id:19
 Latest tweet already replied to
 Going to user no5 bentzuryoav
 Not retweet
 Not pinned tweet
 Not quote tweet
+Selected a tweet
 No tweet found
 Going to user no6 bezalelsm
 Not retweet
 Not pinned tweet
 Not quote tweet
+Selected a tweet
+tweet_id: 1721151511726539155 length of id:19
 Latest tweet already replied to
 Going to user no7 dudiamsalem
 Not retweet
 Not pinned tweet
 Not quote tweet
+Selected a tweet
+tweet_id: 1720371360667418700 length of id:19
+Latest tweet already replied to
+Going to user no8 elicoh1
+Not retweet
+Not pinned tweet
+Not quote tweet
+Selected a tweet
+tweet_id: 1721260418277007548 length of id:19
+Latest tweet already replied to
+Going to user no9 eliyahu_a
+Not retweet
+Not pinned tweet
+Not quote tweet
+Selected a tweet
+tweet_id: 1721070203516129426 length of id:19
+Latest tweet already replied to
+Going to user no10 galitdistel
+Not retweet
+Not pinned tweet
+Not quote tweet
+Selected a tweet
+No tweet found
+Going to user no11 gilagamliel
+Not retweet
+Not pinned tweet
+Not quote tweet
+Selected a tweet
+tweet_id: 1721223696579191106 length of id:19
+Latest tweet already replied to
+Going to user no12 golanmay
+Not retweet
+Not pinned tweet
+Not quote tweet
+Selected a tweet
+No tweet found
+Going to user no13 iditsilman
+Not retweet
+Not pinned tweet
+Not quote tweet
+Selected a tweet
+tweet_id: 1712390002548547888 length of id:19
+Latest tweet already replied to
+Going to user no14 israel_katz
+Not retweet
+Not pinned tweet
+Not quote tweet
+Selected a tweet
+tweet_id: 1721200114629280037 length of id:19
+Latest tweet already replied to
+Going to user no15 itamarbengvir
+Not retweet
+Not pinned tweet
+Not quote tweet
+Selected a tweet
+tweet_id: 1721078789415817364 length of id:19
+Latest tweet already replied to
+Going to user no16 netanyahu
+Not retweet
+Not pinned tweet
+Not quote tweet
+Selected a tweet
+tweet_id: 1721267052294377876 length of id:19
 Found a new tweet, replying
+Done replying
+Going to user no17 nirbarkat
+retweet, skip
+retweet, skip
+retweet, skip
+Not retweet
+Not pinned tweet
+Not quote tweet
+Selected a tweet
+No tweet found
+Going to user no18 ofir_sofer
+Not retweet
+Pinned tweet, skip
+Not retweet
+Not pinned tweet
+Not quote tweet
+Selected a tweet
+tweet_id: 1720138909835796758 length of id:19
+Found a new tweet, replying
+Done replying
+Going to user no19 oritstrock
+Not retweet
+Not pinned tweet
+Not quote tweet
+Selected a tweet
+No tweet found
+Going to user no20 regev_miri
+Not retweet
+Not pinned tweet
+Not quote tweet
+Selected a tweet
+No tweet found
+Going to user no21 shlomo_karhi
+Starting
+Going to user no1 ambdermer
+Not retweet
+Not pinned tweet
+Not quote tweet
+Selected a tweet
+No tweet found
+Going to user no2 amichaichikli
+Not retweet
+Pinned tweet, skip
+retweet, skip
+retweet, skip
+retweet, skip
+retweet, skip
+Going to user no3 amirohana
+retweet, skip
+retweet, skip
+retweet, skip
+retweet, skip
+retweet, skip
+Going to user no4 avidichter
+Not retweet
+Not pinned tweet
+Not quote tweet
+Selected a tweet
+tweet_id: 1719622370116219158 length of id:19
+Latest tweet already replied to
+Going to user no5 bentzuryoav
+Not retweet
+Not pinned tweet
+Not quote tweet
+Selected a tweet
+No tweet found
+Going to user no6 bezalelsm
+Not retweet
+Not pinned tweet
+Not quote tweet
+Selected a tweet
+tweet_id: 1721151511726539155 length of id:19
+Latest tweet already replied to
+Going to user no7 dudiamsalem
+Not retweet
+Not pinned tweet
+Not quote tweet
+Selected a tweet
+tweet_id: 1720371360667418700 length of id:19
+Latest tweet already replied to
+Going to user no8 elicoh1
+Not retweet
+Not pinned tweet
+Not quote tweet
+Selected a tweet
+tweet_id: 1721260418277007548 length of id:19
+Latest tweet already replied to
+Going to user no9 eliyahu_a
+Not retweet
+Not pinned tweet
+Not quote tweet
+Selected a tweet
+tweet_id: 1721070203516129426 length of id:19
+Latest tweet already replied to
+Going to user no10 galitdistel
+Not retweet
+Not pinned tweet
+Not quote tweet
+Selected a tweet
+No tweet found
+Going to user no11 gilagamliel
+Not retweet
+Not pinned tweet
+Not quote tweet
+Selected a tweet
+tweet_id: 1721223696579191106 length of id:19
+Latest tweet already replied to
+Going to user no12 golanmay
+Not retweet
+Not pinned tweet
+Not quote tweet
+Selected a tweet
+No tweet found
+Going to user no13 iditsilman
+Not retweet
+Not pinned tweet
+Not quote tweet
+Selected a tweet
+tweet_id: 1712390002548547888 length of id:19
+Latest tweet already replied to
+Going to user no14 israel_katz
+Not retweet
+Not pinned tweet
+Not quote tweet
+Selected a tweet
+tweet_id: 1721200114629280037 length of id:19
+Latest tweet already replied to
+Going to user no15 itamarbengvir
+Not retweet
+Not pinned tweet
+Not quote tweet
+Selected a tweet
+tweet_id: 1721078789415817364 length of id:19
+Latest tweet already replied to
+Going to user no16 netanyahu
+Not retweet
+Not pinned tweet
+Not quote tweet
+Selected a tweet
+tweet_id: 1721267052294377876 length of id:19
+Latest tweet already replied to
+Going to user no17 nirbarkat
+retweet, skip
+retweet, skip
+retweet, skip
+Not retweet
+Not pinned tweet
+Not quote tweet
+Selected a tweet
+No tweet found
+Going to user no18 ofir_sofer
+Not retweet
+Pinned tweet, skip
+Not retweet
+Not pinned tweet
+Not quote tweet
+Selected a tweet
+tweet_id: 1721214576333627514 length of id:19
+Latest tweet already replied to
+Going to user no19 oritstrock
+Not retweet
+Not pinned tweet
+Not quote tweet
+Selected a tweet
+tweet_id: 1720917451347484923 length of id:19
+Latest tweet already replied to
+Going to user no20 regev_miri
+Not retweet
+Not pinned tweet
+Not quote tweet
+Selected a tweet
+No tweet found
+Going to user no21 shlomo_karhi
+Not retweet
+Not pinned tweet
+Not quote tweet
+Selected a tweet
+tweet_id: 1720430323068993997 length of id:19
+Latest tweet already replied to
+Going to user no22 tzachi_hanegbi
+Not retweet
+Not pinned tweet
+Not quote tweet
+Selected a tweet
+tweet_id: 1717102472844488916 length of id:19
+Latest tweet already replied to
+Going to user no23 yakmargi
+Not retweet
+Pinned tweet, skip
+retweet, skip
+Not retweet
+Not pinned tweet
+Not quote tweet
+Selected a tweet
+tweet_id: 1721189657247879228 length of id:19
+Latest tweet already replied to
+Going to user no24 yoavgallant
+Not retweet
+Not pinned tweet
+Not quote tweet
+Selected a tweet
+tweet_id: 1721258562876256331 length of id:19
+Found a new tweet, replying
+Done replying
+Going to user no25 yoavkisch
+Not retweet
+Not pinned tweet
+Not quote tweet
+Selected a tweet
+tweet_id: 1720060146909360387 length of id:19
+Latest tweet already replied to
+Going to user no26 yuliedelstein
+Not retweet
+Not pinned tweet
+Not quote tweet
+Selected a tweet
+tweet_id: 1721270362644647970 length of id:19
+Found a new tweet, replying
+Done replying
+Going to user no27 zoharm7
+Not retweet
+Not pinned tweet
+Not quote tweet
+Selected a tweet
+tweet_id: 1720367396999864769 length of id:19
+Latest tweet already replied to
+All users done
+0:10:49.606666
+Starting
+Going to user no1 ambdermer
+Not retweet
+Not pinned tweet
+Not quote tweet
+Selected a tweet
+No tweet found
+Going to user no2 amichaichikli
+Not retweet
+Pinned tweet, skip
+retweet, skip
+retweet, skip
+retweet, skip
+retweet, skip
+Going to user no3 amirohana
+retweet, skip
+retweet, skip
+retweet, skip
+retweet, skip
+retweet, skip
+Going to user no4 avidichter
+Not retweet
+Not pinned tweet
+Not quote tweet
+Selected a tweet
+tweet_id: 1719622370116219158 length of id:19
+Latest tweet already replied to
+Going to user no5 bentzuryoav
+Not retweet
+Not pinned tweet
+Not quote tweet
+Selected a tweet
+No tweet found
+Going to user no6 bezalelsm
+Not retweet
+Not pinned tweet
+Not quote tweet
+Selected a tweet
+tweet_id: 1721151511726539155 length of id:19
+Latest tweet already replied to
+Going to user no7 dudiamsalem
+Not retweet
+Not pinned tweet
+Not quote tweet
+Selected a tweet
+tweet_id: 1720371360667418700 length of id:19
+Latest tweet already replied to
+Going to user no8 elicoh1
+retweet, skip
+Not retweet
+Not pinned tweet
+Not quote tweet
+Selected a tweet
+tweet_id: 1721260418277007548 length of id:19
+Latest tweet already replied to
+Going to user no9 eliyahu_a
+Not retweet
+Not pinned tweet
+Not quote tweet
+Selected a tweet
+tweet_id: 1721070203516129426 length of id:19
+Latest tweet already replied to
+Going to user no10 galitdistel
+Not retweet
+Not pinned tweet
+Not quote tweet
+Selected a tweet
+No tweet found
+Going to user no11 gilagamliel
+Not retweet
+Not pinned tweet
+Not quote tweet
+Selected a tweet
+tweet_id: 1721223696579191106 length of id:19
+Latest tweet already replied to
+Going to user no12 golanmay
+Not retweet
+Not pinned tweet
+Not quote tweet
+Selected a tweet
+No tweet found
+Going to user no13 iditsilman
+Not retweet
+Not pinned tweet
+Not quote tweet
+Selected a tweet
+tweet_id: 1712390002548547888 length of id:19
+Latest tweet already replied to
+Going to user no14 israel_katz
+Not retweet
+Not pinned tweet
+Not quote tweet
+Selected a tweet
+tweet_id: 1721200114629280037 length of id:19
+Latest tweet already replied to
+Going to user no15 itamarbengvir
+Not retweet
+Not pinned tweet
+Not quote tweet
+Selected a tweet
+No tweet found
+Going to user no16 netanyahu
+Not retweet
+Not pinned tweet
+Not quote tweet
+Selected a tweet
+tweet_id: 1721267052294377876 length of id:19
+Latest tweet already replied to
+Going to user no17 nirbarkat
+retweet, skip
+retweet, skip
+retweet, skip
+Not retweet
+Not pinned tweet
+Not quote tweet
+Selected a tweet
+No tweet found
+Going to user no18 ofir_sofer
+Not retweet
+Pinned tweet, skip
+Not retweet
+Not pinned tweet
+Not quote tweet
+Selected a tweet
+tweet_id: 1721214576333627514 length of id:19
+Latest tweet already replied to
+Going to user no19 oritstrock
+Not retweet
+Not pinned tweet
+Not quote tweet
+Selected a tweet
+tweet_id: 1720917451347484923 length of id:19
+Latest tweet already replied to
+Going to user no20 regev_miri
+Not retweet
+Not pinned tweet
+Not quote tweet
+Selected a tweet
+No tweet found
+Going to user no21 shlomo_karhi
+Not retweet
+Not pinned tweet
+Not quote tweet
+Selected a tweet
+tweet_id: 1720430323068993997 length of id:19
+Latest tweet already replied to
+Going to user no22 tzachi_hanegbi
+Not retweet
+Not pinned tweet
+Not quote tweet
+Selected a tweet
+tweet_id: 1717102472844488916 length of id:19
+Latest tweet already replied to
+Going to user no23 yakmargi
+Not retweet
+Pinned tweet, skip
+Not retweet
+Not pinned tweet
+Not quote tweet
+Selected a tweet
+tweet_id: 1721189657247879228 length of id:19
+Latest tweet already replied to
+Going to user no24 yoavgallant
+Not retweet
+Not pinned tweet
+Not quote tweet
+Selected a tweet
+tweet_id: 1721258562876256331 length of id:19
+Latest tweet already replied to
+Going to user no25 yoavkisch
+Not retweet
+Not pinned tweet
+Not quote tweet
+Selected a tweet
+tweet_id: 1720060146909360387 length of id:19
+Latest tweet already replied to
+Going to user no26 yuliedelstein
+Not retweet
+Not pinned tweet
+Not quote tweet
+Selected a tweet
+tweet_id: 1721270362644647970 length of id:19
+Latest tweet already replied to
+Going to user no27 zoharm7
+Not retweet
+Not pinned tweet
+Not quote tweet
+Selected a tweet
+tweet_id: 1720367396999864769 length of id:19
+Latest tweet already replied to
+All users done
+0:10:03.376427
+Starting
+Going to user no1 ambdermer
+Not retweet
+Not pinned tweet
+Not quote tweet
+Selected a tweet
+No tweet found
+Going to user no2 amichaichikli
+Not retweet
+Pinned tweet, skip
+retweet, skip
+retweet, skip
+retweet, skip
+retweet, skip
+Going to user no3 amirohana
+retweet, skip
+retweet, skip
+retweet, skip
+retweet, skip
+retweet, skip
+Going to user no4 avidichter
+Not retweet
+Not pinned tweet
+Not quote tweet
+Selected a tweet
+tweet_id: 1719622370116219158 length of id:19
+Latest tweet already replied to
+Going to user no5 bentzuryoav
+Not retweet
+Not pinned tweet
+Not quote tweet
+Selected a tweet
+No tweet found
+Going to user no6 bezalelsm
+Not retweet
+Not pinned tweet
+Not quote tweet
+Selected a tweet
+tweet_id: 1721151511726539155 length of id:19
+Latest tweet already replied to
+Going to user no7 dudiamsalem
+Not retweet
+Not pinned tweet
+Not quote tweet
+Selected a tweet
+tweet_id: 1720371360667418700 length of id:19
+Latest tweet already replied to
+Going to user no8 elicoh1
+retweet, skip
+Not retweet
+Not pinned tweet
+Not quote tweet
+Selected a tweet
+tweet_id: 1721260418277007548 length of id:19
+Latest tweet already replied to
+Going to user no9 eliyahu_a
+Not retweet
+Not pinned tweet
+Not quote tweet
+Selected a tweet
+tweet_id: 1721070203516129426 length of id:19
+Latest tweet already replied to
+Going to user no10 galitdistel
+Not retweet
+Not pinned tweet
+Not quote tweet
+Selected a tweet
+No tweet found
+Going to user no11 gilagamliel
+Not retweet
+Not pinned tweet
+Not quote tweet
+Selected a tweet
+tweet_id: 1721223696579191106 length of id:19
+Latest tweet already replied to
+Going to user no12 golanmay
+Not retweet
+Not pinned tweet
+Not quote tweet
+Selected a tweet
+No tweet found
+Going to user no13 iditsilman
+Not retweet
+Not pinned tweet
+Not quote tweet
+Selected a tweet
+tweet_id: 1712390002548547888 length of id:19
+Latest tweet already replied to
+Going to user no14 israel_katz
+Not retweet
+Not pinned tweet
+Not quote tweet
+Selected a tweet
+tweet_id: 1721200114629280037 length of id:19
+Latest tweet already replied to
+Going to user no15 itamarbengvir
+Not retweet
+Not pinned tweet
+Not quote tweet
+Selected a tweet
+No tweet found
+Going to user no16 netanyahu
+Not retweet
+Not pinned tweet
+Not quote tweet
+Selected a tweet
+tweet_id: 1721267052294377876 length of id:19
+Latest tweet already replied to
+Going to user no17 nirbarkat
+retweet, skip
+retweet, skip
+retweet, skip
+Not retweet
+Not pinned tweet
+Not quote tweet
+Selected a tweet
+No tweet found
+Going to user no18 ofir_sofer
+Not retweet
+Pinned tweet, skip
+Not retweet
+Not pinned tweet
+Not quote tweet
+Selected a tweet
+tweet_id: 1721214576333627514 length of id:19
+Latest tweet already replied to
+Going to user no19 oritstrock
+Not retweet
+Not pinned tweet
+Not quote tweet
+Selected a tweet
+tweet_id: 1720917451347484923 length of id:19
+Latest tweet already replied to
+Going to user no20 regev_miri
+Not retweet
+Not pinned tweet
+Not quote tweet
+Selected a tweet
+No tweet found
+Going to user no21 shlomo_karhi
+Not retweet
+Not pinned tweet
+Not quote tweet
+Selected a tweet
+tweet_id: 1720430323068993997 length of id:19
+Latest tweet already replied to
+Going to user no22 tzachi_hanegbi
+Not retweet
+Not pinned tweet
+Not quote tweet
+Selected a tweet
+tweet_id: 1717102472844488916 length of id:19
+Latest tweet already replied to
+Going to user no23 yakmargi
+Not retweet
+Pinned tweet, skip
+Not retweet
+Not pinned tweet
+Not quote tweet
+Selected a tweet
+tweet_id: 1721189657247879228 length of id:19
+Latest tweet already replied to
+Going to user no24 yoavgallant
+Not retweet
+Not pinned tweet
+Not quote tweet
+Selected a tweet
+tweet_id: 1721258562876256331 length of id:19
+Latest tweet already replied to
+Going to user no25 yoavkisch
+Not retweet
+Not pinned tweet
+Not quote tweet
+Selected a tweet
+tweet_id: 1720060146909360387 length of id:19
+Latest tweet already replied to
+Going to user no26 yuliedelstein
+Not retweet
+Not pinned tweet
+Not quote tweet
+Selected a tweet
+tweet_id: 1721270362644647970 length of id:19
+Latest tweet already replied to
+Going to user no27 zoharm7
+Not retweet
+Not pinned tweet
+Not quote tweet
+Selected a tweet
+tweet_id: 1720367396999864769 length of id:19
+Latest tweet already replied to
+All users done
+0:10:26.560469
+Starting
+Going to user no1 ambdermer
+Not retweet
+Not pinned tweet
+Not quote tweet
+Selected a tweet
+tweet_id: 1721201983191708105 length of id:19
+Found a new tweet, replying
+Done replying
+Going to user no2 amichaichikli
+Not retweet
+Pinned tweet, skip
+retweet, skip
+retweet, skip
+retweet, skip
+retweet, skip
+Going to user no3 amirohana
+retweet, skip
+retweet, skip
+retweet, skip
+retweet, skip
+retweet, skip
+Going to user no4 avidichter
+Not retweet
+Not pinned tweet
+Not quote tweet
+Selected a tweet
+tweet_id: 1719622370116219158 length of id:19
+Latest tweet already replied to
+Going to user no5 bentzuryoav
+Not retweet
+Not pinned tweet
+Not quote tweet
+Selected a tweet
+tweet_id: 1719685075149672639 length of id:19
+Latest tweet already replied to
+Going to user no6 bezalelsm
+Not retweet
+Not pinned tweet
+Not quote tweet
+Selected a tweet
+tweet_id: 1721151511726539155 length of id:19
+Latest tweet already replied to
+Going to user no7 dudiamsalem
+Not retweet
+Not pinned tweet
+Not quote tweet
+Selected a tweet
+tweet_id: 1720371360667418700 length of id:19
+Latest tweet already replied to
+Going to user no8 elicoh1
+retweet, skip
+Not retweet
+Not pinned tweet
+Not quote tweet
+Selected a tweet
+tweet_id: 1721260418277007548 length of id:19
+Latest tweet already replied to
+Going to user no9 eliyahu_a
+Not retweet
+Not pinned tweet
+Not quote tweet
+Selected a tweet
+tweet_id: 1721070203516129426 length of id:19
+Latest tweet already replied to
+Going to user no10 galitdistel
+Not retweet
+Not pinned tweet
+Not quote tweet
+Selected a tweet
+tweet_id: 1719787854950228120 length of id:19
+Found a new tweet, replying
+Done replying
+Going to user no11 gilagamliel
+Not retweet
+Not pinned tweet
+Not quote tweet
+Selected a tweet
+tweet_id: 1721223696579191106 length of id:19
+Latest tweet already replied to
+Going to user no12 golanmay
+Not retweet
+Not pinned tweet
+Not quote tweet
+Selected a tweet
+tweet_id: 1720384335990194219 length of id:19
+Latest tweet already replied to
+Going to user no13 iditsilman
+Not retweet
+Not pinned tweet
+Not quote tweet
+Selected a tweet
+tweet_id: 1712390002548547888 length of id:19
+Latest tweet already replied to
+Going to user no14 israel_katz
+Not retweet
+Not pinned tweet
+Not quote tweet
+Selected a tweet
+tweet_id: 1721200114629280037 length of id:19
+Latest tweet already replied to
+Going to user no15 itamarbengvir
+Not retweet
+Not pinned tweet
+Not quote tweet
+Selected a tweet
+tweet_id: 1721275490688700850 length of id:19
+Found a new tweet, replying
+Done replying
+Going to user no16 netanyahu
+Not retweet
+Not pinned tweet
+Not quote tweet
+Selected a tweet
+tweet_id: 1721267052294377876 length of id:19
+Latest tweet already replied to
+Going to user no17 nirbarkat
+retweet, skip
+retweet, skip
+retweet, skip
+Not retweet
+Not pinned tweet
+Not quote tweet
+Selected a tweet
+tweet_id: 1716537907421340036 length of id:19
+Found a new tweet, replying
+Done replying
+Going to user no18 ofir_sofer
+Starting

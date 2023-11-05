@@ -15,7 +15,7 @@ class TwitterReaderBot(BaseLinkedinBot):
         self.current_page = start_page
 
     def go_to_twitter(self):
-        self.browser = self.create_browser(headless=True)
+        self.browser = self.create_browser(headless=False)
         self.user = "quit"
         self.browser.get('https://twitter.com')
         self.random_wait(3, 5)
@@ -72,12 +72,14 @@ class TwitterReaderBot(BaseLinkedinBot):
         self.wait_for_xpath(xpath_article)
         tweets = self.get_by_xpath(xpath_article, multi=True)
         print(len(tweets))
-        for tweet in tweets:
+        for tweet in tweets[:5]:
             if (not self.check_is_rt(tweet)) and (not self.check_is_pinned(tweet)) and (not self.check_is_qt(tweet)):
                 selected_tweet = tweet
                 break
         if selected_tweet:
-            selected_tweet.click()
+            selected_tweet_text = selected_tweet.find_element(By.XPATH,".//div[@data-testid='tweetText']")
+            self.log("Selected a tweet")
+            selected_tweet_text.click()
             self.random_wait()
             return True
         else:
@@ -88,9 +90,9 @@ class TwitterReaderBot(BaseLinkedinBot):
         url = self.browser.current_url.split('/')
         for url_part in url:
             if url_part.isnumeric() and len(url_part) > 5:
-                print(url_part,len(url_part))
+                self.log(f"tweet_id: {url_part} length of id:{len(url_part)}")
 
-                tweet = Tweet.get_or_save_tweet(tweet_id=url_part[:20], text='NOT SAVING TEXT RN', user=user)
+                tweet, created = Tweet.objects.get_or_create(tweet_id=url_part, user=user)
                 return tweet
 
     def reply_quit(self, user):

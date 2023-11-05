@@ -1,4 +1,8 @@
+import time
+from datetime import timedelta
+
 import tweepy
+from selenium.common import TimeoutException
 
 from twitter_data.core.base import BaseLinkedinBot
 from twitter_data.core.twitter_reader import TwitterReaderBot
@@ -15,6 +19,7 @@ class Command(BaseCommand):
     help = 'Start the stream of the bot telling everyone to quit'
 
     def handle(self, *args, **options):
+        start = time.time()
         bot = TwitterReaderBot()
         self.stdout.write("getting users")
         bot.log("Starting")
@@ -23,9 +28,17 @@ class Command(BaseCommand):
         bot.go_to_twitter()
         for index,user in enumerate(users):
             bot.log(f"Going to user no{index+1} {user.user_profile}")
-            bot.go_to_user(user.user_profile)
+            try:
+                bot.go_to_user(user.user_profile)
+            except TimeoutException:
+                bot.log('Took too long to get user page')
+                continue
             bot.random_wait()
-            tweet_page = bot.go_to_last_tweet()
+            try:
+                tweet_page = bot.go_to_last_tweet()
+            except TimeoutException:
+                bot.log('Took to long to get last tweet')
+                continue
             if tweet_page:
                 tweet = bot.get_or_save_tweet(user=user)
                 if not tweet or tweet.replied:
@@ -44,6 +57,8 @@ class Command(BaseCommand):
                     bot.random_wait()
         bot.log('All users done')
         self.stdout.write("task finished")
+        end = time.time()
+        bot.log(f"{timedelta(seconds=(end-start))}")
 
 
 
