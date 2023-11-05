@@ -14,7 +14,7 @@ class TwitterReaderBot(BaseLinkedinBot):
         self.current_page = start_page
 
     def go_to_twitter(self):
-        self.browser = self.create_browser(headless=False)
+        self.browser = self.create_browser(headless=True)
         self.user = "quit"
         self.browser.get('https://twitter.com')
         self.random_wait(3, 5)

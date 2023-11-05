@@ -1,11 +1,11 @@
-#!/usr/bin/env python
+#!/usr/bin/env /home/pi/quitbot/.venv/bin/python
 """Django's command-line utility for administrative tasks."""
 import os
 import sys
 
 os.environ.setdefault('DJANGO_CONFIGURATION', 'Development')
 os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'quitbot.settings')
-
+os.chdir(os.path.dirname(os.path.abspath(__file__)))
 if sys.argv[0] and sys.argv[0].find('django_test_manage.py'):
     import configurations
     configurations.setup()

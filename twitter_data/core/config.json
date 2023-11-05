@@ -11,7 +11,7 @@
     "resend_amount": 30,
     "connect_amount": 50,
     "withdraw_amount": 200,
-    "chromedriver_path": "twitter_data/core/chromedriver",
+    "chromedriver_path": "",
     "minimum_experience": 2,
     "old_connects_loops": 2,
     "name_collect_amount": 100,

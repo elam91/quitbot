@@ -7,19 +7,6 @@ from django.contrib.auth import get_user_model
 from django.core.management import BaseCommand, CommandError
 from django.conf import settings
 
-# quit bot bearer token
-bearer = 'AAAAAAAAAAAAAAAAAAAAAJIhqwEAAAAAOwvmC4uwUG0sECnbQ4jSLqG48v0%3DesPeXP0CsNtCgbzpnKYeJPiZnGy8fqnM9enwxRH2LZ88n2wUMW'
-
-# api token
-api_token = 'u8Vf4fLJimdUIbOZivUw1ctgh'
-
-# api secret
-api_secret = 'lrhh2f3H8DnKKgAfDLgXL1vBCMGoeniRoCdAWMsVu6y2n3RUwn'
-# user token
-user_token = '1719194526441455616-zsFzuEl4BthbkcDEdR3RUKZRQtEtRp'
-
-# user secret
-user_secret = 'Jduu3MKLIIIbuVvze2kfZCzlfZTVI6bWMlmwrIzbItQ6H'
 
 
 
