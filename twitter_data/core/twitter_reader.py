@@ -1,3 +1,4 @@
+from selenium.common import TimeoutException
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.wait import WebDriverWait
 
@@ -94,14 +95,23 @@ class TwitterReaderBot(BaseLinkedinBot):
 
     def reply_quit(self, user):
         textbox_xpath = '//div[@role="textbox"]'
-        self.wait_for_xpath(textbox_xpath)
+        try:
+            self.wait_for_xpath(textbox_xpath)
+        except TimeoutException:
+            return False
 
-        input = self.get_by_xpath(textbox_xpath)
+        try:
+            input = self.get_by_xpath(textbox_xpath)
+        except TimeoutException:
+            return False
         reply_text = "תתפטר"
         if not user.gender == 'M':
             reply_text = reply_text + 'י'
         input.send_keys(reply_text)
-        button = self.get_by_xpath('//div[contains(@data-testid,"tweetButton")]')
-        self.click_button_humanly(button)
+        try:
+            button = self.get_by_xpath('//div[contains(@data-testid,"tweetButton")]')
+            self.click_button_humanly(button)
+        except TimeoutException:
+            return False
         self.random_wait()
         return True
