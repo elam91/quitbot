@@ -1,0 +1,33 @@
+getting users
+Starting
+sleeping for 4.0 seconds
+sleeping for 3.0 seconds
+Going to user 1queerjew
+sleeping for 9.0 seconds
+4
+Not retweet
+Pinned tweet, skip
+Not retweet
+Not pinned tweet
+Not quote tweet
+sleeping for 13.0 seconds
+1721201498334298259 19
+Found a new tweet, replying
+sleeping for 8.0 seconds
+Done replying
+sleeping for 13.0 seconds
+Going to user ambdermer
+sleeping for 8.0 seconds
+3
+Not retweet
+Not pinned tweet
+Not quote tweet
+sleeping for 8.0 seconds
+No tweet found
+Going to user amichaichikli
+sleeping for 8.0 seconds
+2
+Not retweet
+Pinned tweet, skip
+retweet, skip
+Going to user amirohana

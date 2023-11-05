@@ -14,7 +14,7 @@ class TwitterReaderBot(BaseLinkedinBot):
         self.current_page = start_page
 
     def go_to_twitter(self):
-        self.browser = self.create_browser(headless=False)
+        self.browser = self.create_browser(headless=True)
         self.user = "quit"
         self.browser.get('https://twitter.com')
         self.random_wait(3, 5)
@@ -95,6 +95,7 @@ class TwitterReaderBot(BaseLinkedinBot):
     def reply_quit(self, user):
         textbox_xpath = '//div[@role="textbox"]'
         self.wait_for_xpath(textbox_xpath)
+
         input = self.get_by_xpath(textbox_xpath)
         reply_text = "תתפטר"
         if not user.gender == 'M':
