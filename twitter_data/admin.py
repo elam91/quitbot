@@ -1,4 +1,4 @@
-from django.contrib import admin
+\from django.contrib import admin
 from django.utils.safestring import mark_safe
 from import_export.admin import ImportExportModelAdmin
 
@@ -9,8 +9,8 @@ class TopicsAdmin(admin.ModelAdmin):
     filter_horizontal = ("keywords",)
 
 
-class TweetsAdmin(admin.ModelAdmin):
-    list_display = ("text", "user", "retweeted", "liked", "replied", "go_to_tweet")
+class TweetsAdmin(ImportExportModelAdmin):
+    list_display = ("id", "user", "retweeted", "liked", "replied", "go_to_tweet")
     list_filter = (
         "retweeted",
         "liked",
