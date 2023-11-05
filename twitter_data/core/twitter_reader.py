@@ -14,7 +14,7 @@ class TwitterReaderBot(BaseLinkedinBot):
         self.current_page = start_page
 
     def go_to_twitter(self):
-        self.browser = self.create_browser(headless=True)
+        self.browser = self.create_browser(headless=False)
         self.user = "quit"
         self.browser.get('https://twitter.com')
         self.random_wait(3, 5)
@@ -24,31 +24,35 @@ class TwitterReaderBot(BaseLinkedinBot):
 
     def go_to_user(self, username):
         self.browser.get(f'https://twitter.com/{username}')
+        self.wait_for_xpath('//span[text()="Posts"]')
 
     def check_is_pinned(self, tweet):
         try:
             pinned = tweet.find_element(By.XPATH, './/span[text()="Pinned"]')
+            self.log('Pinned tweet, skip')
             return True
         except Exception as error:
-            print(error)
+            self.log('Not pinned tweet')
             return False
 
     def check_is_rt(self, tweet):
         try:
             pinned = tweet.find_element(By.XPATH, './/span[contains(.," reposted")]')
+            self.log('retweet, skip')
             return True
         except Exception as error:
-            print(error)
+            self.log('Not retweet')
             return False
     def check_is_qt(self, tweet):
         try:
             user_avatars = tweet.find_elements(By.XPATH, './/div[@data-testid="Tweet-User-Avatar"]')
             if len(user_avatars) > 1:
+                self.log('Quote tweet, skip')
                 return True
             else:
+                self.log('Not quote tweet')
                 return False
         except Exception as error:
-            print(error)
             return False
 
     def get_by_xpath(self,xpath, multi=False):
@@ -73,6 +77,7 @@ class TwitterReaderBot(BaseLinkedinBot):
                 break
         if selected_tweet:
             selected_tweet.click()
+            self.random_wait()
             return True
         else:
             return False

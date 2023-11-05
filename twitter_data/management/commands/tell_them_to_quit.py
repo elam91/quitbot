@@ -22,19 +22,29 @@ class Command(BaseCommand):
         bot.go_to_twitter()
         for user in users:
             try:
+                bot.log(f"Going to user {user.user_profile}")
                 bot.go_to_user(user.user_profile)
+                bot.random_wait()
                 tweet_page = bot.go_to_last_tweet()
                 if tweet_page:
                     tweet = bot.get_or_save_tweet(user=user)
                     if not tweet or tweet.replied:
+                        if not tweet:
+                            bot.log("No tweet found")
+                        elif tweet.replied:
+                            bot.log("Latest tweet already replied to")
                         continue
                     else:
+                        bot.log(f"Found a new tweet, replying")
                         res = bot.reply_quit(user)
                         if res:
                             tweet.replied = True
                             tweet.save()
+                        bot.log("Done replying")
+                        bot.random_wait()
             except Exception as error:
-                bot.log(error)
+
+                self.stdout.write(str(error))
                 continue
 
 
